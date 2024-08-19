@@ -1,5 +1,10 @@
 # YTChecker
 
+## Runtime Environment
+Python : 3.10
+OS : Windows
+WebDriver : Chrome Driver
+
 ### DISCLAIMER: This is a proof of concept project!
 
 YTChecker is a script that automatically claims abandoned youtube channels that haven't been claimed by their original owners yet. These youtube channels were created before Google bought YouTube and haven't been migrated to a google account yet. <br>
