@@ -1,0 +1,5 @@
+/venv
+
+.python-version
+
+install-pyenv-win.ps1
